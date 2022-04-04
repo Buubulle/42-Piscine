@@ -1,0 +1,5 @@
+Credentials cache: API:7F096291-7586-47F5-BC2B-1DC01DA22E2E
+        Principal: ahalleux@S19.BE
+
+  Issued                Expires               Principal
+Feb  1 16:45:55 2022  Feb  2 02:45:55 2022  krbtgt/S19.BE@S19.BE
